@@ -69,7 +69,7 @@ The runner never creates/manages screen sessions. Every cell retains compact `me
 
 ## Frozen modeling and experiment contract
 
-`T=336`, `N_C=7`, `P_C=48`, `S_F=P_F/2`, horizons `96/192/336/720`, seed `2021`, original seven per-dataset YAML hyperparameters, `mixhop_depth=1`, `mixhop_alpha=0.05`, initialization scalars `theta_s_init=0.5413248546`, `boundary_eps=0.001`, `lambda_init=0.1`. The variable count, embedding dimension, patch size, batch size, learning rate, scheduler, dropout and Soft-K mass budget are read from their frozen YAML files. No automatic missing-Reference fallback exists.
+`T=336`, `N_C=7`, `P_C=48`, `S_F=P_F/2`, horizons `96/192/336/720`, seed `2020/2021/2022`, original seven per-dataset YAML hyperparameters, `mixhop_depth=1`, `mixhop_alpha=0.05`, initialization scalars `theta_s_init=0.5413248546`, `boundary_eps=0.001`, `lambda_init=0.1`. The variable count, embedding dimension, patch size, batch size, learning rate, scheduler, dropout and Soft-K mass budget are read from their frozen YAML files. No automatic missing-Reference fallback exists.
 
 For detailed source mapping, compatibility limits and audit test levels, consult `statementDm.md`.
 
