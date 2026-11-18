@@ -1,4 +1,4 @@
-# DReSTG — Dual Resolution Enhanced Spatial-Temporal Graph
+# DReSTG/FROG
 
 An experimental implementation of **Dual Resolution Enhanced Spatial-Temporal Graph for Long-Term Multivariate Time Series Forecasting**.
 
