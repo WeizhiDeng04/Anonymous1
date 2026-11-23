@@ -1,4 +1,4 @@
-# DReSTG
+# DReSTG (its new name is FROG)
 
 ## Code Structure
 
